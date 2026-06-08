@@ -1,5 +1,5 @@
 import tkinter as tk
-from my_calculator import calculator  # your custom calculator function
+from Bodmas_calculator_backend.py import calculator  # your custom calculator function
 
 # ---- Main Window ----
 root = tk.Tk()
